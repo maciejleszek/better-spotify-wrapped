@@ -12,3 +12,7 @@ wheels/
 # UV files
 .idea
 .python-version
+uv.lock
+
+# Data
+data
